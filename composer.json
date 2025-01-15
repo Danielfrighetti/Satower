@@ -1,0 +1,13 @@
+{
+	"name": "nelson/satower-academy",
+	"description": "An Academy for Satower.com",
+	"type": "project",
+	"autoload": {
+		"psr-4": {
+			"SatowerAcademy\\": "./includes"
+		}
+	},
+	"require": {
+		"php": "^8.2.23"
+	}
+}
